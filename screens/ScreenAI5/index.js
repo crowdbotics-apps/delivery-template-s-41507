@@ -16,7 +16,7 @@ const LoginScreen = () => {
       </TouchableOpacity>
       <TouchableOpacity>
         <Pressable onPress={() => {
-        navigation.navigate("ScreenAI8");
+        navigation.navigate("ScreenAI9");
       }}><Text style={styles.forgotPassword}>Forgot Password?</Text></Pressable>
       </TouchableOpacity>
       <Text style={styles.or}>OR</Text>
